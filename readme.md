@@ -51,7 +51,7 @@
 ### ✅ Apache
 
 - Section **"Add-ons Apache"**
-- Téléchargez [exeApache 2.4.65 - x64](https://wampserver.aviatechno.net/files/apache/wampserver3_x64_addon_apache2.4.65.)
+- Téléchargez [Apache 2.4.65 - x64](https://wampserver.aviatechno.net/files/apache/wampserver3_x64_addon_apache2.4.65.exe)
 - Installez et sélectionnez via le menu WAMP
 
 ### ✅ phpMyAdmin
