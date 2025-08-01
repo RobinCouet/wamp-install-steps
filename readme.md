@@ -23,7 +23,7 @@
 ## 🧩 Étape 2 : Télécharger WampServer
 
 1. Rendez-vous sur 👉 [https://wampserver.aviatechno.net](https://wampserver.aviatechno.net)
-2. Cliquez sur **"Wampserver 3.3.7 64 bit – Télécharger"** ou via le lien direct [https://wampserver.aviatechno.net/files/install/wampserver3.3.7_x64.exe](Wampserver 3.3.7 64 bit)
+2. Cliquez sur **"Wampserver 3.3.7 64 bit – Télécharger"** ou via le lien direct [Wampserver 3.3.7 64 bit](https://wampserver.aviatechno.net/files/install/wampserver3.3.7_x64.exe)
 3. Lancez l’installeur : `wampserver3.3.x_x64.exe`
 4. Recommandations :
    - Installez dans `C:\wamp64`
@@ -44,20 +44,20 @@
 ### ✅ PHP
 
 - Allez dans **"Add-ons PHP"** du site
-- Téléchargez par ex. [https://wampserver.aviatechno.net/files/php/wampserver3_x64_addon_php8.4.11.exe](PHP 8.4.11 - x64)
+- Téléchargez par ex. [PHP 8.4.11 - x64](https://wampserver.aviatechno.net/files/php/wampserver3_x64_addon_php8.4.11.exe)
 - Installez, puis :
   - Clic gauche sur WAMP > PHP > Version > Choisissez celle installée
 
 ### ✅ Apache
 
 - Section **"Add-ons Apache"**
-- Téléchargez [https://wampserver.aviatechno.net/files/apache/wampserver3_x64_addon_apache2.4.65.exe](Apache 2.4.65 - x64)
+- Téléchargez [exeApache 2.4.65 - x64](https://wampserver.aviatechno.net/files/apache/wampserver3_x64_addon_apache2.4.65.)
 - Installez et sélectionnez via le menu WAMP
 
 ### ✅ phpMyAdmin
 
 - Section **"Add-ons phpMyAdmin"**
-- Téléchargez [https://wampserver.aviatechno.net/files/apps/wampserver3_x64_phpmyadmin5.2.2.exe](phpMyAdmin 5.2.2)
+- Téléchargez [phpMyAdmin 5.2.2](https://wampserver.aviatechno.net/files/apps/wampserver3_x64_phpmyadmin5.2.2.exe)
 - Accessible via : [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
 
 ---
